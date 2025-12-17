@@ -2,7 +2,7 @@
 
 > Анализ A/B теста с проверкой статистической значимости для оптимизации конверсии
 
-[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Смотреть%20дашборд-orange?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/AB_test_17652866561720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Tableau Dashboard](https://img.shields.io/badge/Tableau-Смотреть%20дашборд-green?style=for-the-badge&logo=tableau)](https://public.tableau.com/views/AB_test_17652866561720/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
@@ -61,7 +61,7 @@
 ##   Контакты
 
 **Ирина Дмитриева**
-- 💼 LinkedIn: [Ваш профиль](https://www.linkedin.com/in/irinadm/)
+- 💼 LinkedIn: [Профиль](https://www.linkedin.com/in/irinadm/)
 - 📧 Email: irene.dm.alex@gmail.com
 - 📊 Tableau: [Все дашборды](https://public.tableau.com/app/profile/irina.dmitrieva/vizzes)
 
